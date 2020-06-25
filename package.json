@@ -1,0 +1,20 @@
+{
+  "name": "svg-optimizer",
+  "version": "1.0.0",
+  "description": "optimize svg with a simple command",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Sean Dempsey",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-svgmin": "^6.0.0",
+    "load-grunt-tasks": "^5.1.0",
+    "time-grunt": "^2.0.0"
+  }
+}
